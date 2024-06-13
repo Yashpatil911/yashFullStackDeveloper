@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/04/f7/ee/04f7eebe299c6d87a6e1c4361a029d58.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.yash {
+    text-align: left;
+    background-color: grey;
+    color: brown;
+}
+
+.ayush {
+    text-align: center;
+    background-color: orange;
+    color: green;
+}

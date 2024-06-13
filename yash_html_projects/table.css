@@ -1,0 +1,20 @@
+table,th,td{
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+th,td{
+    border-color: #c71801;
+    border-style: dotted;
+    background-color: #96D4D4;
+
+}
+th {
+    text-align: left;
+  }
+
+/* table, th, td {
+border-style: dotted;
+    border: 1px solid black;
+    border-radius: 10px;
+  }    */
